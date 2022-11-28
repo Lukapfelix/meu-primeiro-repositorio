@@ -1,8 +1,11 @@
-body {text-align:center; background-color:aquamarine;margin-top: 100px;}
-img{width: 400px;}
-.título1
-.parágrafo1 {font-size: 35px; }
-.parágrafo2 {text-align: left; font-size: 25px;}
-.parágrafo3 {text-align: left; font-size: 25px;}
-.parágrafo4 {text-align: left; font-size: 25px;}
-.parágrafo5 {text-align: left; font-size: 25px;color: brown;}
+body {text-align:center;background-color: rgb(30, 224, 195);margin-top: 50px;}
+img{width: 300px;}
+.título1{font-size: 50px;border: 10px solid #000000;}
+.conteúdo{margin:50px; padding: 50px;background-color:rgb(116,116,179); text-align: left; color: rgb(13,13,13);}
+.parágrafo1{font-size: 35px;}
+.parágrafo2{font-size: 25px;}
+.parágrafo3{font-size: 25px;}
+.parágrafo4{font-size: 25px;}
+.título2{font-size: 30px;color:black;}
+img{width: 180px;}
+.lista-de-planetas{display:inline-block;width: 130px; height:150px; background-color:bisque;}
